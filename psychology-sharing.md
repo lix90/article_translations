@@ -63,7 +63,7 @@ Jonah Berger是宾夕法尼亚大学沃顿商学院的教授，也是“纽约�
 Berger的研究侧重于六个原则，这些原则使得某些事物被广泛分享并形成病毒式传播效果：
 
 * 社交货币（Social Currency）：我们分享容易让我们看起来很好的东西
-* 触发器（Triggers）：易于记忆容易。
+* 触发器（Triggers）：易于记忆。
 * 情绪（Emotion）：我们分享我们关心的东西。
 * 公开（Public）：展示，成长（Built to show, built to grow）。(不知道怎么翻译，得查作者的原著了)
 * 实用价值（Practical Value）：人们乐于分享有用的信息。
