@@ -65,7 +65,7 @@ Berger的研究侧重于六个原则，这些原则使得某些事物被广泛�
 * 社交货币（Social Currency）：我们分享容易让我们看起来很好的东西
 * 触发器（Triggers）：易于记忆容易。
 * 情绪（Emotion）：我们分享我们关心的东西。
-* 公共（Public）：展示，成长。
+* 公开（Public）：展示，成长（Built to show, built to grow）。(不知道怎么翻译，得查作者的原著了)
 * 实用价值（Practical Value）：人们乐于分享有用的信息。
 * 故事（Stories）：人是天生的故事讲述者。所有伟大的品牌也学会了讲故事。信息以闲聊的形式出现。
 
